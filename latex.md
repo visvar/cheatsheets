@@ -4,3 +4,5 @@
 ```latex
 \alpha
 ```
+
+$\alpha$
